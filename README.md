@@ -2,7 +2,7 @@
 Projeto Analise de dados
 Foi disponilizado um formulado google forms com 23 perguntas, com perguntas pessoais e relevantes ao mercado de trabalho. O objetivo é respoder algumas perguntas.
 
-o principal objetivo geral desta analise, é verficar com base nas respasta, como anda o mercado de trabalho, de acordo faixa etaria de idade e escolaridade.
+o principal objetivo geral desta analise, é verficar com base nas resposta, como anda o perfil profissional, de acordo faixa etaria de idade e escolaridade.
 
 Perguntas para chegar no objetivo geral:
 
