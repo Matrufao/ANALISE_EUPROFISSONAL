@@ -26,3 +26,5 @@ Resumo
 com tudo apos essas analise pode-se ter uma analise sobre o merdado de trabalho relacionado com o 'eu profissional'
 
 link formulario: https://docs.google.com/forms/d/e/1FAIpQLSeCN1W_4F2EG9nHzv1yl-TKqWIB9Fp_ri-BnjV7nGz32DCKaA/viewform?usp=sf_link
+
+link dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzRkMzJhYTYtYjQ3OS00YzE4LWFlZmItYTM1Y2E1ZjhlMTY5IiwidCI6IjY0MmY2OThiLTUyZWEtNGE3OS1iMDViLTk3MDg0NGMwM2E0OCJ9
